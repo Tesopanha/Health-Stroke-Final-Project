@@ -49,5 +49,4 @@ The following machine learning models were trained and evaluated:
 
 ---
 
-**Author:** [Your Name]
-**Date:** July 2025
+**Author:** Sopanha Te , Suy Heng , Sokleng Ly , Leangsiv Sok
